@@ -9,7 +9,7 @@ body {
 }
 
 main {
-  background-color: #fff;
+  background-color: hsl(0, 0%, 100%);
   border-radius: 25px;
   width: 600px;
   position: relative;

@@ -31,13 +31,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### What I learned
 
-I improved my knowledge on how to use position and flex.
+I improved my knowledge and understanding on how to use position properties and flexbox.
 It was quite challenging to position everything as I wanted.
-
-### Useful resources
 
 ## Author
 
 - Website - [Mayfred Appiah]
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
